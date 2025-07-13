@@ -15,7 +15,7 @@ This is my **Task 4 submission** for the **Prodigy InfoTech Web Development Inte
 - Clean UI/UX with modern design
 
  
-🔗 LinkedIn Post: [Optional: link to your LinkedIn post]
+🔗 LinkedIn Post: [https://www.linkedin.com/posts/chandan-mili-03614b292_webdevelopment-portfolio-frontend-activity-7350078282224070656-eDZU?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEbbOmoBNE24ot-Qll1ZVIwojLSuOugZuII]
 
 ---
 
